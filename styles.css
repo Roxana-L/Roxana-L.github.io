@@ -1,0 +1,15 @@
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+.projects {
+  display: flex;
+  justify-content: space-evenly;
+}
+.project {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid blue;
+  margin: 10px;
+  padding: 10px;
+}
